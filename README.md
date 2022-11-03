@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 👋 Hi there, 
 
 I’m Felipe F. Porto, I'm Industrial Engineer, also Scrum Master and Greenbelt. 
+
 I have been working in the retail area since 2017 adapting the agile framework to retail market. 
+
 Today I'm looking for professional outplacement. 
 
 👀 I’m interested in Data Science, Data Analytics and Agile.
@@ -20,5 +22,5 @@ Today I'm looking for professional outplacement.
 For more information, access the links below.
 
 🔭 I’m currently working on Americanas SA
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/felipe-f-porto-49224696/)
-📢 Site (blog): www.simplificandoredes.com
