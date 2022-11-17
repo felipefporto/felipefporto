@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/felipe-f-porto/](https://www.linkedin.com/in/felipe-f-porto/)" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-f-porto/" /></a>
+  <a href="[https://www.linkedin.com/in/felipe-f-porto/](https://www.linkedin.com/in/felipe-f-porto/)" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>  
