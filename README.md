@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> 
   I’m Felipe F. Porto, I'm Industrial Engineer, also 
   
-  <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer" alt="Scrum Master (SMC)"></a> 
+  <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer" alt="Scrum Master"></a> 
   
   and Greenbelt. 
   I have been working in the retail area since 2017 adapting the agile framework to retail market. 
