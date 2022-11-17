@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  I’m Felipe F. Porto, I'm Industrial Engineer, also [Scrum Master][https://www.scrumstudy.com/certification/verify?type=SMC&number=868458] and Greenbelt. 
+  I’m Felipe F. Porto, I'm Industrial Engineer, also [Scrum Master](https://www.scrumstudy.com/certification/verify?type=SMC&number=868458) and Greenbelt. 
   I have been working in the retail area since 2017 adapting the agile framework to retail market. 
   Today I'm looking for professional outplacement. 
   
