@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   
   👀 I’m interested in Data Science, Data Analytics and Agile.
   
-  🔭 I'm currently studying Systems Analysis and Development at FATEC Itapetininga (7h40 to 13h00) and working on Americanas SA as Comercial Supervisor (13h30 to 22h30) at Itapetininga Shopping Mall.
+  🔭 I'm currently studying Systems Analysis and Development at FATEC Itapetininga and working on Americanas SA as Comercial Supervisor.
 </p>
 
 <p align="left">
