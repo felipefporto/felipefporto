@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   I have been working in the retail area since 2017 adapting the agile framework to retail market. 
   Today I'm looking for professional outplacement. 
   
-  👀 I’m interested in Data Science, Data Analytics and Agile.
+  👀 I’m interested in Back-end, Statistics, Machine Learning, Data Science, Data Analytics and Agile.
   
   🔭 I'm currently studying Systems Analysis and Development at FATEC Itapetininga and working on Americanas SA as Commercial Supervisor.
 </p>
