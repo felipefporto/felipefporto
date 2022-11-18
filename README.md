@@ -39,3 +39,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
 </p>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefporto)](https://github.com/anuraghazra/github-readme-stats)
