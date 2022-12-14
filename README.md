@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Git - Bizagi - Anaconda - MySQL - Minitab - Power BI - Excel - Trello </strong>
+  💼 Ferramentas: <strong> Git - Bizagi - Anaconda - MySQL - Minitab - Power BI - Excel - Trello - Jira</strong>
 </p>
 
 <p align="left">
