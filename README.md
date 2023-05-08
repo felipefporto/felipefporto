@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  I’m Felipe F. Porto, today I'm looking for professional outplacement. I'm Industrial Engineer, also <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer">Scrum Master (SMC)</a> and Greenbelt Lean Six Sigma. 
-  I have been working in the retail area since 2017 adapting the agile framework to retail market. 
+  I’m Felipe F. Porto, today I'm currently a Data Engineer Trainee at Minsait. I'm Industrial Engineer, also <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer">Scrum Master (SMC)</a> and Greenbelt Lean Six Sigma. 
+  I'm finishing my second degree, Systems Analysis and Development at Fatec Itapetininga. 
   
   
   👀 I’m interested in Back-end, Statistics, Machine Learning, Data Science, Data Analytics and Agile.
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  🦄 Languages: <strong> Python (also Pandas) - JavaScript - Java.</strong>
+  🦄 Languages: <strong> Python - JavaScript - Java.</strong>
 </p>
 
 <p align="left">
