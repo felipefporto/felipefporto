@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   
   👀 I’m interested in Back-end, Statistics, Machine Learning, Data Science, Data Analytics and Agile.
   
-  🔭 I'm currently studying Systems Analysis and Development at FATEC Itapetininga and working on Americanas SA as Commercial Supervisor.
+  🔭 I'm currently studying Systems Analysis and Development at FATEC Itapetininga.
 </p>
 
 <p align="left">
