@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> 
   I’m Felipe F. Porto, today I'm currently a Data Engineer Trainee at Minsait. I'm Industrial Engineer, also <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer">Scrum Master (SMC)</a> and Greenbelt Lean Six Sigma. 
-  I'm finishing my second degree, Systems Analysis and Development at Fatec Itapetininga. 
+  
   
   
   👀 I’m interested in Back-end, Statistics, Machine Learning, Data Science, Data Analytics and Agile.
