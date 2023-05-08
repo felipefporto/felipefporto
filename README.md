@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  🦄 Languages: <strong> Python (also Pandas) - JavaScript.</strong>
+  🦄 Languages: <strong> Python (also Pandas) - JavaScript - Java.</strong>
 </p>
 
 <p align="left">
