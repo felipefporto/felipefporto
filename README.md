@@ -17,17 +17,18 @@ You can click the Preview link to take a look at your changes.
   
   
   
-  👀 I’m interested in Back-end, Statistics, Machine Learning, Data Science, Data Analytics and Agile.
+  👀 I’m interested in Big Data, Statistics, Machine Learning, Data Science, Data Analytics and Agile.
   
   🔭 I'm currently studying Systems Analysis and Development at FATEC Itapetininga.
 </p>
 
 <p align="left">
   🦄 Languages: <strong> Python - JavaScript - Java.</strong>
+  🌱 I’m currently learning: R language - Scala - Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Git - Bizagi - Anaconda - MySQL - Minitab - Power BI - Excel - Trello - Jira</strong>
+  💼 Ferramentas: <strong> Git - Bizagi - Anaconda - MySQL - Apache Spark - Apache Airflow -  Minitab - Power BI - Excel - Trello - Jira</strong>
 </p>
 
 <p align="left">
