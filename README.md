@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   🦄 Languages: <strong> Python - JavaScript - Java.</strong>
+
   🌱 I’m currently learning: R language - Scala - Python
 </p>
 
