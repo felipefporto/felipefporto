@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Git - Bizagi - Anaconda - MySQL - Apache Spark - Apache Airflow -  Minitab - Power BI - Excel - Trello - Jira</strong>
+  💼 Ferramentas: <strong> Git - Bizagi - Anaconda - MySQL - Apache Spark - Apache Airflow - Apache Kafka - Minitab - Power BI - Excel - Trello - Jira</strong>
 </p>
 
 <p align="left">
