@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://i.ytimg.com/vi/5yF-VeivtgU/maxresdefault.jpg" alt="Kaggle" height="28">
   </a>
   <a href="https://replit.com/@FelipePorto6" target="_blank" rel="noopener noreferrer">
-    <img src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" alt="Replit" height="28">
+    <img src="https://vectorseek.com/wp-content/uploads/2023/08/Replit-Logo-Vector.svg-.png" alt="Replit" height="28">
   </a>
 </p>  
 
