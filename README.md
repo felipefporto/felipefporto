@@ -47,7 +47,7 @@
 ## How to reach me:</strong> ⤵️ 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-f-porto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipefporto/) 
-[![Mail](https://img.shields.io/badge/-felipe.porto@fatec.sp.gov.br-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipe.porto@fatec.sp.gov.br)](mailto:felipe.porto@fatec.sp.gov.br)
+[![Mail](https://img.shields.io/badge/-felipe.ferreiraporto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipe.ferreiraporto@gmail.com)](mailto:felipe.porto@fatec.sp.gov.br)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/felipefporto) 
 [![Repplit](https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit&logoColor=white)](https://www.kaggle.com/felipefporto) 
 
