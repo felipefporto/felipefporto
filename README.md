@@ -4,7 +4,7 @@
 - 🔭 I'm currently studying Machine Learning Engineering at FIAP 🚀
 - I'm Industrial Engineer and with MBA in Business Management
 - I'm Systems Analyst and Developer (BTech)
-- <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer">Scrum Master (SMC)</a> and Greenbelt Lean Six Sigma.
+- <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer">Scrum Master (SMC)</a>, [Google Cloud Certified](https://www.credly.com/users/felipe-ferreira-porto/badges#credly) and Greenbelt Lean Six Sigma.
 - Passionate about Big Data, Statistic, Machine Learning, Data Science and Agile.
 
 ## Languages 💻
