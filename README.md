@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Felipe F. Porto! :coffee:
 
-- I'm currently a Data Engineer at Minsait.
+- I'm currently a [Data Engineer](https://www.credly.com/badges/4360840a-af18-4f71-a023-45c7768a2771) at Minsait.
 - 🔭 I'm currently studying Machine Learning Engineering at FIAP 🚀
 - I'm Industrial Engineer and with MBA in Business Management
 - I'm Systems Analyst and Developer (BTech)
