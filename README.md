@@ -9,9 +9,12 @@
 
 ## Languages 💻
 <div style="display: inline">
+  <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="scala" src="https://img.shields.io/badge/Scala-DE3423?style=for-the-badge&logo=scala&logoColor=white" />
+  <img align="center" alt="pyspark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img align="center" alt="bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 </div><br/>
 
