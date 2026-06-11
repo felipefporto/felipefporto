@@ -21,23 +21,20 @@
 ## Tools 💻
 
 <div style="display: inline">
-  <img align="center" alt="sklearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img align="center" alt="anaconda" src="https://img.shields.io/badge/anaconda-green?&style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/git-F37626.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-  <img align="center" alt="apache airflow" src="https://img.shields.io/badge/apache airflow-red?&style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img align="center" alt="apache spark" src="https://img.shields.io/badge/apache spark-F37626.svg?&style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img align="center" alt="apache kafka" src="https://img.shields.io/badge/apache kafka-black?&style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img align="center" alt="tableu" src="https://img.shields.io/badge/tableu-grey?&style=for-the-badge&logo=tableu&logoColor=white" />
-  <img align="center" alt="minitab" src="https://img.shields.io/badge/minitab-green?&style=for-the-badge&logoColor=white" />
-  <img align="center" alt="trello" src="https://img.shields.io/badge/trello-blue?&style=for-the-badge&logo=trello&logoColor=white" />
-  <img align="center" alt="jira" src="https://img.shields.io/badge/jira-blue?&style=for-the-badge&logo=jira&logoColor=white" />
-  <img align="center" alt="google cloud" src="https://img.shields.io/badge/google cloud-blue?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img align="center" alt="apache spark" src="https://img.shields.io/badge/Apache%20Spark-F37626?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img align="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img align="center" alt="apache airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img align="center" alt="apache kafka" src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img align="center" alt="delta lake" src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="numpy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img align="center" alt="google cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img align="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div><br/>
-
 
 ## GitHub Stats ⚡
 <div>
