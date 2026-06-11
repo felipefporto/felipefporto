@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Felipe F. Porto! :coffee:
 
-- I'm currently a [Data Engineer](https://www.credly.com/badges/4360840a-af18-4f71-a023-45c7768a2771) at Minsait.
-- 🔭 I'm currently studying Machine Learning Engineering at FIAP 🚀
+- I'm currently a [Data Engineer II](https://www.credly.com/badges/4360840a-af18-4f71-a023-45c7768a2771) at Minsait.
+- Postgraduate Specialist in Machine Learning Engineering (FIAP), focused on MLOps, model deployment, AI systems, and scalable machine learning solutions in cloud environments.
 - I'm Industrial Engineer and with MBA in Business Management
 - I'm Systems Analyst and Developer (BTech)
 - <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=868458" target="_blank" rel="noopener noreferrer">Scrum Master (SMC)</a>, [Google Cloud Certified](https://www.credly.com/users/felipe-ferreira-porto/badges#credly) and Greenbelt Lean Six Sigma.
